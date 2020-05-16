@@ -1,0 +1,13 @@
+name: FoodBalance
+main: lunki.modify.foodbalance.FoodBalance
+version: 1.7
+api-version: 1.13
+authors: [MrSugarCaney,Lunki]
+description: >
+             Be aware of your eating!
+commands:
+  health:
+    description: Regen all the food
+  foodbalance:
+    description: Show the stats
+    aliases: fb
