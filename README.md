@@ -2,4 +2,4 @@ FoodBalance
 ==================
 
 Force to eat balanced!
-By MrSugarCaney
+By MrSugarCaney and Lunki
